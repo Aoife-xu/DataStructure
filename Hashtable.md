@@ -21,6 +21,8 @@
 
 <img src="C:\Users\xuhan\AppData\Roaming\Typora\typora-user-images\image-20211217044314238.png" alt="image-20211217044314238" style="zoom:67%;" />
 
+<img src="pictures/H.1.jpg" style="zoom:67%;" />
+
 Definition: The major target of the hash tables is to minimize the searching time of any sort of data that needs to be fetched.
 
 Function: The hash table searching the data by a key-value pair. Visit the value address in the memory directly by a Key. as Figure 9.1. Key----be calculated to a hash index(hash function)---> address of the value. quicker than mapping one by one. 
