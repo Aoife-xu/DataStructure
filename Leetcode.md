@@ -117,7 +117,7 @@ class Solution {
 
 **Description:**
 
-q1
+<img src="pictures/q1.png" style="zoom:50%;" />
 
 two non-empty linked lists stored in reverse order, return the sum as a linked list.
 
@@ -129,7 +129,7 @@ Explanation: 342 + 467 = 1107.
 
 **Algorithm:**
 
-![q2](C:\Users\xuhan\Desktop\java\notes\pictures\q2.png)
+<img src="pictures/q2.png" style="zoom:50%;" />
 
 
 

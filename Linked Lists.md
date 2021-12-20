@@ -4,9 +4,9 @@
 
 **Singly Linked List** (SLL)
 
-![image-20211219212009109](C:\Users\xuhan\AppData\Roaming\Typora\typora-user-images\image-20211219212009109.png)
+![](pictures/L.1.png)
 
-![image-20211219212926735](C:\Users\xuhan\AppData\Roaming\Typora\typora-user-images\image-20211219212926735.png)
+<img src="pictures/L_2.png" style="zoom:50%;" />
 
 **Head:** address of the first element.
 
@@ -16,7 +16,7 @@
 
 **SLL:** This is a singly linked list, also there is a doubly linked list.
 
-![L_3](C:\Users\xuhan\Desktop\java\notes\pictures\L_3.png)
+<img src="pictures/L_3.png" style="zoom:50%;" />
 
 **Class Node**
 
@@ -199,11 +199,11 @@ class Test{
 
 **Linked list knowledge points**
 
-![L_4](C:\Users\xuhan\Desktop\java\notes\pictures\L_4.png)
+<img src="pictures/L_4.png" style="zoom:50%;" />
 
 **the difference of Memory for Array and Linked list**
 
-![preview](https://pic1.zhimg.com/v2-34bbe8057fabdc5aa3934a72538489cc_r.jpg)
+![](pictures/L_5.jpg)
 
 **two key points in leetcode**
 

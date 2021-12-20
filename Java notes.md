@@ -134,7 +134,7 @@ set interface is an unordered collection of objects in which duplicate values ca
 
 extend set:
 
-<img src="C:\Users\xuhan\AppData\Roaming\Typora\typora-user-images\image-20211217150257926.png" alt="image-20211217150257926" style="zoom:67%;" />
+<img src="pictures/Java_notes.1.png" style="zoom:50%;" />
 
 **declaration:**
 
