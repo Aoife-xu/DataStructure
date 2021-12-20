@@ -19,7 +19,7 @@
 
 ## 1.Hashtable
 
-<img src="C:\Users\xuhan\AppData\Roaming\Typora\typora-user-images\image-20211217044314238.png" alt="image-20211217044314238" style="zoom:67%;" />
+
 
 <img src="pictures/H.1.jpg" style="zoom:67%;" />
 
@@ -31,13 +31,13 @@ Function: The hash table searching the data by a key-value pair. Visit the value
 
 The essence of Hash table is an array.
 
-<img src="C:\Users\xuhan\AppData\Roaming\Typora\typora-user-images\image-20211217032244588.png" alt="image-20211217032244588" style="zoom:80%;" />
+![](pictures/H.2.png)
 
 There are two ways to implement hash table, array+linked list & array + tree. here is linked list.
 
 key-value pair:
 
-<img src="C:\Users\xuhan\AppData\Roaming\Typora\typora-user-images\image-20211217032732939.png" alt="image-20211217032732939" style="zoom:67%;" />
+![](pictures/H.3.png)
 
 Figure 9.2
 
@@ -190,7 +190,7 @@ the purpose of resizing is to reduce the collisions.
 
 0.6: the typically convention threshold which means 60% of table were occupied.
 
-![image-20211217043013311](C:\Users\xuhan\AppData\Roaming\Typora\typora-user-images\image-20211217043013311.png)
+![](pictures/H.4.png)
 
 main: create a new table then traverse the old one, in that, traverse each chain and insert the elements to new table from head. 
 
@@ -229,7 +229,7 @@ steps:
 
 #### 4.1 insertion
 
-![image-20211217054323190](C:\Users\xuhan\AppData\Roaming\Typora\typora-user-images\image-20211217054323190.png)
+![](pictures/H.5.png)
 
 <1> convert the key to hash index to find the chain node. 
 
