@@ -244,7 +244,18 @@ intput a=0
 output Y
 ````
 
+**7. array**
 
+```
+// (1) define your java int array
+int[] intArray = new int[] {4,5,6,7,8};
+
+// (2) print the java int array
+for (int i=0; i<intArray.length; i++)
+{
+  System.out.println(intArray[i]);
+}
+```
 
 
 
